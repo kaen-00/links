@@ -1,15 +1,13 @@
 # Important Links
 
 ## Cybersecurity
-
-<<<<<<< HEAD
 Web Application Penetration Testing:  
   https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes?tab=readme-ov-file#phase-1--history  
 
 Threat Landscape:    
 https://publish.obsidian.md/addielamarr/Threat+Landscape  
 
-NPTEL Network Security:
+NPTEL Network Security:  
 https://www.youtube.com/watch?v=UfjeI9NT0Ls&list=PLOzRYVm0a65fnmnuvoH0DRDGnwRMrK7ec   
 
 ## CTFs
@@ -58,16 +56,17 @@ The Odin Project:
 https://www.theodinproject.com/lessons/foundations-how-this-course-will-work  
 
 ## AI ML:
-  Andrej Karpathy LLM series:
+  Andrej Karpathy LLM series:  
   https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ  
 
-  Michael Nielsen Neural Network Book : 
+  Michael Nielsen Neural Network Book :   
   http://neuralnetworksanddeeplearning.com/chap4.html  
 
-  Neural Network from scratch, math + python:
+  Neural Network from scratch, math + python:  
    https://www.youtube.com/watch?v=pauPCy_s0Ok  
 
-  The Complete Mathematics of Neural Networks and Deep Learning : https://www.youtube.com/watch?v=Ixl3nykKG9M&t=17014s  
+  The Complete Mathematics of Neural Networks and Deep Learning :  
+   https://www.youtube.com/watch?v=Ixl3nykKG9M&t=17014s  
 
   StatQuest:  
   https://www.youtube.com/@statquest
