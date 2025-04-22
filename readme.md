@@ -15,9 +15,6 @@ Competitive Programming: contest schedule:- https://competitiveprogramming.info/
   for dsa/leetcode: https://neetcode.io/roadmap
   for codeforces: https://www.tle-eliminators.com/cp-sheet
   
-  https://open.kattis.com/problems
-  https://progvar.fun/problemsets
-  
 
 projects: https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file
 
