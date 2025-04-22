@@ -2,6 +2,7 @@
 
 ## Cybersecurity
 
+<<<<<<< HEAD
 Web Application Penetration Testing:  
   https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes?tab=readme-ov-file#phase-1--history  
 
