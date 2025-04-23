@@ -41,6 +41,8 @@ https://neetcode.io/roadmap
 
 For Codeforces:  
 https://www.tle-eliminators.com/cp-sheet  
+
+Others:
 https://open.kattis.com/problems  
 https://progvar.fun/problemsets  
   
