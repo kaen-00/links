@@ -85,3 +85,9 @@ https://www.youtube.com/watch?v=dIUTsFT2MeQ
 
   Introduction to shaders:   
   https://www.youtube.com/watch?v=3mfvZ-mdtZQ
+
+  Blender:
+  https://www.youtube.com/playlist?list=PLL8svnS8fK0n8sENNU8CXbVn8DM2kK7ur
+
+  Godot:
+  https://www.youtube.com/playlist?list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo
