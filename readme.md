@@ -91,3 +91,6 @@ https://www.youtube.com/watch?v=dIUTsFT2MeQ
 
   Godot:
   https://www.youtube.com/playlist?list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo
+
+## Quantum computing
+  quantum country : https://quantum.country/
